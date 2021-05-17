@@ -8,8 +8,7 @@ public class Test {
         ExecutorService executorService =
                 Executors.newFixedThreadPool(5);
         for ( int i = 1; i <= 10; i ++) {
-            MyRunnable myRunnable =
-                    new MyRunnable
+
         }
     }
 }
